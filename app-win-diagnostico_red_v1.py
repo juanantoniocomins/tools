@@ -14,7 +14,7 @@ def mostrar_opcion():
 
 # Crear ventana
 root = tk.Tk()
-root.title("Menú de Opciones")
+root.title("Windows - Diagnostico de Red")
 
 # Bloquear maximizar
 root.resizable(False, False)
