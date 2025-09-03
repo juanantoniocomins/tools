@@ -1,0 +1,11 @@
+Nombre, Matemáticas, Lengua, Inglés, Historia, Ciencias
+Juan Pérez, 8, 7, 9, 6, 7
+María López, 9, 8, 7, 8, 9
+Carlos García, 6, 5, 7, 6, 5
+Ana Martínez, 10, 9, 8, 9, 10
+Luis Fernández, 7, 6, 7, 7, 6
+Sofía Ruiz, 8, 9, 8, 8, 9
+David Sánchez, 5, 6, 6, 5, 6
+Laura Torres, 9, 10, 9, 10, 9
+Miguel Gómez, 6, 7, 5, 6, 7
+Elena Díaz, 7, 8, 9, 7, 8
